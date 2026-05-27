@@ -10,7 +10,7 @@ sudo nano /etc/apt/sources.list
 
 # Enter your ubuntu version in [RELEASE]
 
-deb http://mirror.arvancloud.ir/ubuntu <RELEASE> universe
+deb http://mirror.arvancloud.ir/ubuntu [RELEASE] universe
 
 # for example
 
